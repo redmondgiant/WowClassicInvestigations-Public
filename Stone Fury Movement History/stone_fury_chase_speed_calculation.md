@@ -2,7 +2,7 @@
 
 Based on:
 
-- VMaNGOS history: https://github.com/redmondgiant/WowClassicInvestigations/blob/master/Stone%20Fury%20Movement%20History/stone_fury_vmangos_speed_history_v2.md
+- VMaNGOS history: https://github.com/redmondgiant/WowClassicInvestigations-Public/blob/main/Stone%20Fury%20Movement%20History/stone_fury_vmangos_speed_history_v2.md
 - WoW-HC Death Appeal: https://wow-hc.com/forums/7266-fuser
 
 ## VMaNGOS movement values
