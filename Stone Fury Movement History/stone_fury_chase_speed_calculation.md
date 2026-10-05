@@ -31,9 +31,9 @@ Relevant movement assumptions:
 
 ## Visual Closing Speed
 
-If you take away nothign else from the video evidence, the mere closing speed alone shows somethign is very off.
+If you take away nothing else from the video evidence, the mere closing speed alone shows something is very off.
 
-At ~0:59–1:02 Stone Fury can visibly be seen rapidly gaining on Fuser while Fuser's +50% Swiftness Potion is still active. A normal ~8 yd/s mob cannot gain on a player moving at 10.5 yd/s at all; it must continuously lose ground. This occurs after Fuser had already Blinked away and Stone Fury remained rooted for approximately another 3 seconds, and FUser had then run off 12 of the 15 sec of the swiftness pot. Fuser should have been very far away and ahead of the mob by the time the pot expires, not caught by it.
+At ~0:59–1:02 Stone Fury can visibly be seen rapidly gaining on Fuser while Fuser's +50% Swiftness Potion is still active. A normal ~8 yd/s mob cannot gain on a player moving at 10.5 yd/s at all; it must continuously lose ground. This occurs after Fuser had already Blinked away and Stone Fury remained rooted for approximately another 3 seconds, and Fuser had then run off 12 of the 15 sec of the swiftness pot. Fuser should have been very far away and ahead of the mob by the time the pot expires, not caught by it.
 
 ## Required chase speed
 
